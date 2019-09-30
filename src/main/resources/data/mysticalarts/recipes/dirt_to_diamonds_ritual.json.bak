@@ -1,0 +1,26 @@
+{
+  "type": "mysticalarts:ritual",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:dirt"
+    }
+  ],
+  "processTime": 1000,
+  "resourceType": "blood",
+  "cost": 200,
+  "output": {
+    "item": "minecraft:diamond"
+  }
+}

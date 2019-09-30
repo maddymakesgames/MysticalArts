@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "mysticalarts:block/evil_beacon_core",
+    "down": "mysticalarts:block/evil_beacon_core",
+    "north": "mysticalarts:block/evil_beacon_core",
+    "east": "mysticalarts:block/evil_beacon_core",
+    "south": "mysticalarts:block/evil_beacon_core",
+    "west": "mysticalarts:block/evil_beacon_core",
+    "particle": "mysticalarts:block/evil_beacon_core"
+  }
+}

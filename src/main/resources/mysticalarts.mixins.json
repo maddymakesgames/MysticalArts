@@ -1,0 +1,14 @@
+{
+  "required": false,
+  "package": "com.github.maddymakesgames.MysticalArts.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    ""
+  ],
+  "client": [
+    ""
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

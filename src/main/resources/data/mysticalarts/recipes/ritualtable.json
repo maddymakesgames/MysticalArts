@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "group": "mysticalarts",
+  "pattern": ["ABA", "CCC"],
+  "key": {
+    "A": {
+      "item": "minecraft:quartz_block"
+    },
+    "B": {
+      "item": "mysticalarts:soul"
+    },
+    "C": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "mysticalarts:ritual_table"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "mysticalarts:ritual",
+  "ingredients": [
+    {
+      "item": "mysticalarts:soul_diamond"
+    },
+    {
+      "item": "mysticalarts:soul_diamond"
+    },
+    {
+      "item": "mysticalarts:soul_diamond"
+    },
+    {
+      "item": "mysticalarts:soul_diamond"
+    },
+    {
+      "item": "mysticalarts:soul_diamond"
+    }
+  ],
+  "base": {
+    "item": "mysticalarts:ritual_dagger"
+  },
+  "processTime": 1000,
+  "resource": "blood",
+  "cost": 200,
+  "output": {
+    "item": "mysticalarts:crystal_dagger"
+  }
+}

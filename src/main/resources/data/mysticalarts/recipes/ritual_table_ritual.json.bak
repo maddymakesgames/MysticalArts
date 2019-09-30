@@ -1,0 +1,15 @@
+{
+  "type": "mysticalarts:ritual",
+  "ingredients": [
+    {
+      "item": "minecraft:crafting_table"
+    },
+    {
+      "item": "mysticalarts:soul"
+    }
+  ],
+  "processTime": 1000,
+  "output": {
+    "item": "mysticalarts:ritual_table"
+  }
+}

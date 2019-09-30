@@ -1,0 +1,14 @@
+{
+  "itemGroup.mysticalarts.item_group": "Mystical Arts",
+
+  "block.mysticalarts.ritual_table": "Ritual Table",
+  "block.mysticalarts.evil_beacon": "Evil Beacon",
+  "block.mysticalarts.evil_beacon_core": "Evil Beacon Core",
+
+  "item.mysticalarts.ritual_dagger": "Sacrificial Dagger",
+  "item.mysticalarts.soul": "Soul",
+  "item.mysticalarts.soul_diamond": "Soul Infused Diamond",
+  "item.mysticalarts.crystal_dagger": "Crystalline Dagger",
+
+  "info.mysticalarts.blood_with_max": "Blood: %d / %d"
+}

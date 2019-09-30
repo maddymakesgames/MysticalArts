@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "active=true": {"model": "mysticalarts:block/ritual_table"},
+    "active=false": {"model": "mysticalarts:block/ritual_table"}
+  }
+}
